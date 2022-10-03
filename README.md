@@ -17,9 +17,9 @@ If you want install/uninstall programm:
 
 Run Tests on code C or gcovr report:
 
-  make tests
-  make gcovr_report
+    make tests
+    make gcovr_report
   
 Archive: 
 
-  make dist
+    make dist
