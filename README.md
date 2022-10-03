@@ -10,6 +10,8 @@ There is a switch between GPU and CPU.
 You can change the color of any part of the object
 Also, the program can take screenshots and record GIFs.
 
+To install you will need make and cmake!
+
 If you want install/uninstall programm:
     
     make install
