@@ -11,9 +11,8 @@ You can change the color of any part of the object
 Also, the program can take screenshots and record GIFs.
 
 If you want install/uninstall programm:
-
-  make install
-  make uninstall
+    make install
+    make uninstall
 
 Run Tests on code C or gcovr report:
 
