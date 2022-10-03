@@ -1,6 +1,6 @@
 # 3DViewer_v1.0
 
-##Easy viewing of object files in 3D
+## Easy viewing of object files in 3D
 
 This is the first version of the project, so the functionality is limited.
 
